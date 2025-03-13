@@ -478,6 +478,7 @@ st.plotly_chart(fig, key="8")
 st.markdown("---")
 
 
+
 df_7a = xls.parse("7a", header=2)
 
 df_7a.rename(columns={"Owned: \nOwns outright": "Owned: Owns outright", "Owned: Owns with a mortgage, \nloan or shared ownership": "Owned: Owns with a mortgage, loan or shared ownership","Private rented or \nlives rent free": "Private rented or lives rent free"}, inplace=True)
@@ -505,7 +506,10 @@ df_ethnic_subgroups = df_7a[~df_7a["Household combination of resident ethnic gro
 df_ethnic_total = df_eng_wales[df_eng_wales["Household combination of resident ethnic group"].str.startswith("Total")].copy()
 
 # Convert Ownership Counts to Percentages
-df_ethnic_total["Ownership Percentage"] = (df_ethnic_total["Owned: Owns outright"] / df_ethnic_total["Owned: Owns outright"].sum()) * 100
+df_ethnic_total["Ownership Percentage"] = (
+    (df_ethnic_total["Owned: Owns outright"] + df_ethnic_total["Owned: Owns with a mortgage, loan or shared ownership"])
+    / (df_ethnic_total["Owned: Owns outright"] + df_ethnic_total["Owned: Owns with a mortgage, loan or shared ownership"]).sum()
+) * 100
 
 fig = px.treemap(
     df_ethnic_total,
