@@ -7,4 +7,3 @@ dash-bootstrap-components~=1.7.1
 numpy~=2.2.3
 openpyxl
 seaborn
-plotly.graph_objects
