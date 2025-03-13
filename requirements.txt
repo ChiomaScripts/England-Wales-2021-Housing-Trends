@@ -8,4 +8,3 @@ numpy~=2.2.3
 openpyxl
 seaborn
 plotly.graph_objects
-geopandas
