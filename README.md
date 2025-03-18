@@ -62,17 +62,17 @@ Launch the **Streamlit Dashboard** by running:
 
 ## 📊 Sample Analysis & Visualisations
 ```
-###1️⃣ Homeownership vs Renting in England & Wales
+1️⃣ Homeownership vs Renting in England & Wales
 📌 Bar charts comparing homeownership vs renting rates across both nations.
 
-###2️⃣ Regional Differences in Tenure
+2️⃣ Regional Differences in Tenure
 📌 Heatmaps showing variations in tenure distribution across the 9 English regions.
 
-###3️⃣ Local District-Level Trends
+3️⃣ Local District-Level Trends
 📌 Scatter plots and bubble maps analysing housing tenure at a granular district level.
 
-###4️⃣ Interactive Streamlit Dashboard
-📌 Filter & visualise homeownership trends by region, household type, and demographics in real-time.
+4️⃣ Interactive Streamlit Dashboard
+📌 Filter & visualise homeownership trends by region, household type, and demographics in real time.
 ```
 
 ## 🛠 Future Improvements
