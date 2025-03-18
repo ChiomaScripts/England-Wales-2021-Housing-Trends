@@ -78,10 +78,10 @@ Launch the **Streamlit Dashboard** by running:
 ---
 
 ## 🛠 Future Improvements
-🔹 **Expand Analysis to Scotland & Northern Ireland**.
-🔹 **Include Census Data** to enrich demographic insights.
-🔹 **Enhance Dashboard UI** with more interactive filters & visualisations.
-🔹 **Predictive Modelling** for tenure forecasting.
+-🔹 **Expand Analysis to Scotland & Northern Ireland**.
+-🔹 **Include Census Data** to enrich demographic insights.
+-🔹 **Enhance Dashboard UI** with more interactive filters & visualisations.
+-🔹 **Predictive Modelling** for tenure forecasting.
 
 ---
 
