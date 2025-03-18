@@ -23,10 +23,10 @@ Additionally, this project includes an **interactive dashboard built with Stream
 
 ## 📂 Project Structure
 ```
-|-- Data Prep & EDA.ipynb # Jupyter Notebook for data analysis 
-|-- streamlit_dashboard.py # Streamlit dashboard script 
-|-- housingdata.csv # Household tenure dataset 
-|-- README.md # Project documentation
+|-- Data Prep & EDA.ipynb   # Colab Notebook for data analysis 
+|-- streamlit_dashboard.py  # Streamlit dashboard script 
+|-- housingdata.csv         # Household tenure dataset 
+|-- README.md               # Project documentation
 ```
 
 
