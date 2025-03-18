@@ -57,6 +57,7 @@ cd household-tenure-analysis
 4. **Run the Interactive Dashboard**
 Launch the **Streamlit Dashboard** by running:
 `streamlit run _dashboard.py`
+```
 
 
 ## 📊 Sample Analysis & Visualisations
