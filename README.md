@@ -59,7 +59,7 @@ Launch the **Streamlit Dashboard** by running:
 `streamlit run _dashboard.py`
 ```
 
-
+---
 ## 📊 Sample Analysis & Visualisations
 ```
 1️⃣ Homeownership vs Renting in England & Wales
@@ -75,15 +75,21 @@ Launch the **Streamlit Dashboard** by running:
 📌 Filter & visualise homeownership trends by region, household type, and demographics in real time.
 ```
 
+---
+
 ## 🛠 Future Improvements
 - 🔹 **Expand Analysis to Scotland & Northern Ireland**.
 - 🔹 **Include Census Data** to enrich demographic insights.
 - 🔹 **Enhance Dashboard UI** with more interactive filters & visualisations.
 - 🔹 **Predictive Modelling** for tenure forecasting.
 
+---
+
 ## ⚠️ Important Notes
 - This project uses **publicly available housing data**.
 - The analysis is **descriptive and exploratory**, with no predictive modelling (yet).
+
+---
 
 ## 📜 License
 This project is licensed under the **MIT License**.
