@@ -48,6 +48,7 @@ Additionally, this project includes an **interactive dashboard built with Stream
 ```sh
 git clone https://github.com/yourusername/household-tenure-analysis.git
 cd household-tenure-analysis
+```
 
 2. **Run the Data Analysis Notebook**
 
@@ -57,7 +58,7 @@ cd household-tenure-analysis
 4. **Run the Interactive Dashboard**
 Launch the **Streamlit Dashboard** by running:
 `streamlit run _dashboard.py`
-```
+
 
 ---
 ## 📊 Sample Analysis & Visualisations
