@@ -47,7 +47,6 @@ Additionally, this project includes an **interactive dashboard built with Stream
 1. **Clone the Repository**
 ```sh
 git clone https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends.git
-cd household-tenure-analysis
 ```
 
 2. **Run the Data Analysis Notebook**
