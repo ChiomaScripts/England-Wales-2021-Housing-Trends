@@ -46,7 +46,7 @@ Additionally, this project includes an **interactive dashboard built with Stream
 
 1. **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/household-tenure-analysis.git
+git clone https://github.com/ChiomaScripts/household-tenure-analysis.git
 cd household-tenure-analysis
 ```
 
@@ -57,7 +57,7 @@ cd household-tenure-analysis
 
 4. **Run the Interactive Dashboard**
 Launch the **Streamlit Dashboard** by running:
-`streamlit run _dashboard.py`
+`streamlit run england_wales_housing_data_2021.py`
 
 
 ---
